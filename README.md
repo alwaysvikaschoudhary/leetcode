@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
