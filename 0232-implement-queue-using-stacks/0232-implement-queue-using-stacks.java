@@ -1,0 +1,54 @@
+class MyQueue {
+
+    private Stack<Integer> s1;
+    private Stack<Integer> s2;
+
+    public MyQueue() {
+        s1 = new Stack<>();
+        s2 = new Stack<>();
+    }
+
+    public void push(int x) {
+        // Move all elements from s1 to s2
+        while (!s1.isEmpty()) {
+            s2.push(s1.pop());
+        }
+
+        // Push new element into s1
+        s1.push(x);  // ✅ fixed
+
+        // Move everything back from s2 to s1
+        while (!s2.isEmpty()) {
+            s1.push(s2.pop());
+        }
+    }
+
+    public int pop() {
+        if (empty()) {
+            System.out.println("Queue is empty");
+            return -1;
+        }
+        return s1.pop();
+    }
+
+    public int peek() {
+        if (empty()) {
+            System.out.println("Queue is empty");
+            return -1;
+        }
+        return s1.peek();
+    }
+
+    public boolean empty() {
+        return s1.isEmpty();
+    }
+}
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue obj = new MyQueue();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.peek();
+ * boolean param_4 = obj.empty();
+ */
