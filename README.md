@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0037-sudoku-solver) |
+| [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -115,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
