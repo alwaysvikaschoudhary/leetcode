@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
