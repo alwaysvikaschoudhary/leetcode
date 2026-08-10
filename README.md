@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -208,4 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
