@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0242-valid-anagram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
