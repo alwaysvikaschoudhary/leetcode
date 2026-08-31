@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Quickselect
 |  |
 | ------- |
