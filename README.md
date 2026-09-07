@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Backtracking
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Game Theory
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1927-sum-game) |
 ## Tree
 |  |
@@ -280,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
