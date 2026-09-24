@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0733-flood-fill) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0242-valid-anagram) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
