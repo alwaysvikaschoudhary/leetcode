@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0162-find-peak-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1260-shift-2d-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
