@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0785-is-graph-bipartite) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
 |  |
 | ------- |
