@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
