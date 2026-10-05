@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1406-stone-game-iii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1406-stone-game-iii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1927-sum-game) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1406-stone-game-iii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1927-sum-game) |
@@ -355,10 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/alwaysvikaschoudhary/leetcode/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
